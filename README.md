@@ -1,6 +1,6 @@
 # Jupyter Notebook Template on Gitpod
 
-This is a [Jupyter Notebook](https://jupyter.org/) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+This is a [Jupyter Notebook](https://jupyter.org/) template configured for cloud development environments on [Gitpod](https://www.gitpod.io/).
 
 Read more about how to use Jupyter Notebooks with Gitpod in [our documentation.](https://www.gitpod.io/docs/references/ides-and-editors/jupyter-notebooks)
 
